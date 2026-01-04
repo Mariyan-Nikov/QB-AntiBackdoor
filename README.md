@@ -1,46 +1,38 @@
 🔐 QB-AntiBackdoor
 
-Secure QBCore FiveM Anti-Backdoor Script — Protect Your Server
+QB Anti-Backdoor — QBCore FiveM
 
-🏫 Server Security Tool — QBCore FiveM
-A lightweight server-side script to detect, block, and neutralize backdoors in malicious or leaked FiveM resources. Protects your server from unauthorized events, remote code execution, hidden admin menus, and other malicious scripts.
+🏫 Server Security Script — FiveM QBCore
+Protect your server from hidden backdoors, malicious events, and unauthorized code execution. Lightweight, fast, and designed for QBCore. Keep your server safe from leaked or compromised resources.
 
 🧮 Features
 
-Blocks known & suspicious server events
+Detects & blocks suspicious server events
 
-Prevents unauthorized server-side execution
+Stops unauthorized code execution
 
-Detects abnormal resource behavior
+Monitors abnormal resource behavior
 
 Fully server-side & performance-friendly
 
-Designed specifically for QBCore
-
 🧰 Requirements
 
-FXServer (Linux or Windows)
+FXServer (Linux/Windows)
 
 QBCore framework
 
-No external dependencies
+No extra dependencies
 
 🚀 Installation
 
-Place the folder in resources/[security]/qb-antibackdoor
+Place in resources/[security]/qb-antibackdoor
 
 Add to server.cfg:
 
 ensure qb-antibackdoor
 
 
-Restart your server ✅
-
-🔥 Why It Matters
-Many leaked or free FiveM scripts contain hidden admin menus, remote code execution backdoors, money/economy exploits, or server-killing events. QB-AntiBackdoor helps protect your server, players, and reputation.
-
-⚙️ Configuration
-Edit config.lua to enable/disable detections, add custom blacklisted events, or toggle debug & logging.
+Restart the server ✅
 
 📄 License
-MIT License — free to use, modify, and share.
+MIT — free to use, modify, and share
