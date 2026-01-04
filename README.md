@@ -7,29 +7,29 @@ Protect your server from hidden backdoors, malicious events, and unauthorized co
 
 🧮 Features
 
-Detects & blocks suspicious server events
+> Detects & blocks suspicious server events
 
-Stops unauthorized code execution
+> Stops unauthorized code execution
 
-Monitors abnormal resource behavior
+> Monitors abnormal resource behavior
 
-Fully server-side & performance-friendly
+---Fully server-side & performance-friendly---
 
 🧰 Requirements
 
-FXServer (Linux/Windows)
+> FXServer (Linux/Windows)
 
-QBCore framework
+> QBCore framework
 
-No extra dependencies
+> No extra dependencies
 
 🚀 Installation
 
-Place in resources/[security]/qb-antibackdoor
+> Place in resources/[security]/qb-antibackdoor
 
-Add to server.cfg:
+> Add to server.cfg:
 
-ensure qb-antibackdoor
+> ensure qb-antibackdoor
 
 
 Restart the server ✅
